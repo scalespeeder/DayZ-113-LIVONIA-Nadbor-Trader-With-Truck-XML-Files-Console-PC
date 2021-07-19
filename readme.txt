@@ -28,12 +28,9 @@ functioning of your server.
 
 These XML files will add trader items to the shop in Nadbor, with a Trader Truck parked outside.
 
-To install these files simply upload them over the top of your existing files and restart your server.
+To install these files simply upload them over the top of your existing files and restart your server..
 
-Please notes that the trader-truck-spawnabletype.xml trader-truck-event.xml extra_types.xml colour_Spawnabletypes.xml files 
-should be uploaded to your DB folder.
-
-Please note that these are Vanilla 112 files and that item spawns in the store count towards that items nominal value, so you may want to consider
-increaseing those values in the types.xml so items still spawn in other places.
+Please note that these are Vanilla 113 files and that item spawns in the store count towards that items nominal value, so you may want to consider
+increasing those values in the types.xml so items still spawn in other places.
 
 Thanks, Rob.
